@@ -1,0 +1,9 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="316" height="76" rx="16" fill="#fff" stroke="#FF6600" stroke-width="4"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="bold"
+        fill="#FF6600" stroke="#000" stroke-width="2" paint-order="stroke"
+        style="filter: drop-shadow(2px 2px 2px #000)">
+    SCPTech Net
+  </text>
+</svg>
